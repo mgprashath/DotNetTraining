@@ -1,0 +1,14 @@
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\ShapeAreaCalculatorSln\ShapeAreaCalculator\bin\Debug\net8.0\ShapeAreaCalculator.exe
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\ShapeAreaCalculatorSln\ShapeAreaCalculator\bin\Debug\net8.0\ShapeAreaCalculator.deps.json
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\ShapeAreaCalculatorSln\ShapeAreaCalculator\bin\Debug\net8.0\ShapeAreaCalculator.runtimeconfig.json
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\ShapeAreaCalculatorSln\ShapeAreaCalculator\bin\Debug\net8.0\ShapeAreaCalculator.dll
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\ShapeAreaCalculatorSln\ShapeAreaCalculator\bin\Debug\net8.0\ShapeAreaCalculator.pdb
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\ShapeAreaCalculatorSln\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\ShapeAreaCalculatorSln\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\ShapeAreaCalculatorSln\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.AssemblyInfo.cs
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\ShapeAreaCalculatorSln\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\ShapeAreaCalculatorSln\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.dll
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\ShapeAreaCalculatorSln\ShapeAreaCalculator\obj\Debug\net8.0\refint\ShapeAreaCalculator.dll
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\ShapeAreaCalculatorSln\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.pdb
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\ShapeAreaCalculatorSln\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.genruntimeconfig.cache
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\ShapeAreaCalculatorSln\ShapeAreaCalculator\obj\Debug\net8.0\ref\ShapeAreaCalculator.dll

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\FileHandlingTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8766152-7828-4266-BDE2-9116D81DCABD}|FileHandlingTest\\FileHandlingTest.csproj|c:\\users\\prashath\\source\\repos\\asp core tutorial\\firstproject\\c sharp practice\\filehandlingtest\\filehandlingtest\\views\\file\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8766152-7828-4266-BDE2-9116D81DCABD}|FileHandlingTest\\FileHandlingTest.csproj|solutionrelative:filehandlingtest\\views\\file\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8766152-7828-4266-BDE2-9116D81DCABD}|FileHandlingTest\\FileHandlingTest.csproj|c:\\users\\prashath\\source\\repos\\asp core tutorial\\firstproject\\c sharp practice\\filehandlingtest\\filehandlingtest\\views\\file\\createfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8766152-7828-4266-BDE2-9116D81DCABD}|FileHandlingTest\\FileHandlingTest.csproj|solutionrelative:filehandlingtest\\views\\file\\createfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8766152-7828-4266-BDE2-9116D81DCABD}|FileHandlingTest\\FileHandlingTest.csproj|c:\\users\\prashath\\source\\repos\\asp core tutorial\\firstproject\\c sharp practice\\filehandlingtest\\filehandlingtest\\views\\file\\read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8766152-7828-4266-BDE2-9116D81DCABD}|FileHandlingTest\\FileHandlingTest.csproj|solutionrelative:filehandlingtest\\views\\file\\read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8766152-7828-4266-BDE2-9116D81DCABD}|FileHandlingTest\\FileHandlingTest.csproj|c:\\users\\prashath\\source\\repos\\asp core tutorial\\firstproject\\c sharp practice\\filehandlingtest\\filehandlingtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8766152-7828-4266-BDE2-9116D81DCABD}|FileHandlingTest\\FileHandlingTest.csproj|solutionrelative:filehandlingtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8766152-7828-4266-BDE2-9116D81DCABD}|FileHandlingTest\\FileHandlingTest.csproj|c:\\users\\prashath\\source\\repos\\asp core tutorial\\firstproject\\c sharp practice\\filehandlingtest\\filehandlingtest\\views\\file\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8766152-7828-4266-BDE2-9116D81DCABD}|FileHandlingTest\\FileHandlingTest.csproj|solutionrelative:filehandlingtest\\views\\file\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8766152-7828-4266-BDE2-9116D81DCABD}|FileHandlingTest\\FileHandlingTest.csproj|c:\\users\\prashath\\source\\repos\\asp core tutorial\\firstproject\\c sharp practice\\filehandlingtest\\filehandlingtest\\files\\name_10082025130539.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8766152-7828-4266-BDE2-9116D81DCABD}|FileHandlingTest\\FileHandlingTest.csproj|solutionrelative:filehandlingtest\\files\\name_10082025130539.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8766152-7828-4266-BDE2-9116D81DCABD}|FileHandlingTest\\FileHandlingTest.csproj|c:\\users\\prashath\\source\\repos\\asp core tutorial\\firstproject\\c sharp practice\\filehandlingtest\\filehandlingtest\\files\\name_10082025130100.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8766152-7828-4266-BDE2-9116D81DCABD}|FileHandlingTest\\FileHandlingTest.csproj|solutionrelative:filehandlingtest\\files\\name_10082025130100.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8766152-7828-4266-BDE2-9116D81DCABD}|FileHandlingTest\\FileHandlingTest.csproj|c:\\users\\prashath\\source\\repos\\asp core tutorial\\firstproject\\c sharp practice\\filehandlingtest\\filehandlingtest\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8766152-7828-4266-BDE2-9116D81DCABD}|FileHandlingTest\\FileHandlingTest.csproj|solutionrelative:filehandlingtest\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\FileHandlingTest\\FileHandlingTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FileHandlingTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\FileHandlingTest\\FileHandlingTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FileHandlingTest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T07:41:00.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Name_10082025130539.txt",
+              "DocumentMoniker": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\FileHandlingTest\\FileHandlingTest\\Files\\Name_10082025130539.txt",
+              "RelativeDocumentMoniker": "FileHandlingTest\\Files\\Name_10082025130539.txt",
+              "ToolTip": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\FileHandlingTest\\FileHandlingTest\\Files\\Name_10082025130539.txt",
+              "RelativeToolTip": "FileHandlingTest\\Files\\Name_10082025130539.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-08T07:35:56.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Name_10082025130100.txt",
+              "DocumentMoniker": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\FileHandlingTest\\FileHandlingTest\\Files\\Name_10082025130100.txt",
+              "RelativeDocumentMoniker": "FileHandlingTest\\Files\\Name_10082025130100.txt",
+              "ToolTip": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\FileHandlingTest\\FileHandlingTest\\Files\\Name_10082025130100.txt",
+              "RelativeToolTip": "FileHandlingTest\\Files\\Name_10082025130100.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-08T07:35:53.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Read.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\FileHandlingTest\\FileHandlingTest\\Views\\File\\Read.cshtml",
+              "RelativeDocumentMoniker": "FileHandlingTest\\Views\\File\\Read.cshtml",
+              "ToolTip": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\FileHandlingTest\\FileHandlingTest\\Views\\File\\Read.cshtml",
+              "RelativeToolTip": "FileHandlingTest\\Views\\File\\Read.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T07:32:43.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\FileHandlingTest\\FileHandlingTest\\Views\\File\\View.cshtml",
+              "RelativeDocumentMoniker": "FileHandlingTest\\Views\\File\\View.cshtml",
+              "ToolTip": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\FileHandlingTest\\FileHandlingTest\\Views\\File\\View.cshtml",
+              "RelativeToolTip": "FileHandlingTest\\Views\\File\\View.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T07:11:23.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateFile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\FileHandlingTest\\FileHandlingTest\\Views\\File\\CreateFile.cshtml",
+              "RelativeDocumentMoniker": "FileHandlingTest\\Views\\File\\CreateFile.cshtml",
+              "ToolTip": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\FileHandlingTest\\FileHandlingTest\\Views\\File\\CreateFile.cshtml",
+              "RelativeToolTip": "FileHandlingTest\\Views\\File\\CreateFile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T06:25:00.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\FileHandlingTest\\FileHandlingTest\\Views\\File\\Index.cshtml",
+              "RelativeDocumentMoniker": "FileHandlingTest\\Views\\File\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\FileHandlingTest\\FileHandlingTest\\Views\\File\\Index.cshtml",
+              "RelativeToolTip": "FileHandlingTest\\Views\\File\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T06:16:58.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\FileHandlingTest\\FileHandlingTest\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "FileHandlingTest\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\FileHandlingTest\\FileHandlingTest\\Controllers\\FileController.cs",
+              "RelativeToolTip": "FileHandlingTest\\Controllers\\FileController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:14:42.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\ShapeAreaCalculatorSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD2B84-355B-4BFE-8C9F-35B5A32BE6C4}|ShapeAreaCalculator\\ShapeAreaCalculator.csproj|c:\\users\\prashath\\source\\repos\\asp core tutorial\\firstproject\\c sharp practice\\shapeareacalculatorsln\\shapeareacalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FD2B84-355B-4BFE-8C9F-35B5A32BE6C4}|ShapeAreaCalculator\\ShapeAreaCalculator.csproj|solutionrelative:shapeareacalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD2B84-355B-4BFE-8C9F-35B5A32BE6C4}|ShapeAreaCalculator\\ShapeAreaCalculator.csproj|c:\\users\\prashath\\source\\repos\\asp core tutorial\\firstproject\\c sharp practice\\shapeareacalculatorsln\\shapeareacalculator\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FD2B84-355B-4BFE-8C9F-35B5A32BE6C4}|ShapeAreaCalculator\\ShapeAreaCalculator.csproj|solutionrelative:shapeareacalculator\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD2B84-355B-4BFE-8C9F-35B5A32BE6C4}|ShapeAreaCalculator\\ShapeAreaCalculator.csproj|c:\\users\\prashath\\source\\repos\\asp core tutorial\\firstproject\\c sharp practice\\shapeareacalculatorsln\\shapeareacalculator\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FD2B84-355B-4BFE-8C9F-35B5A32BE6C4}|ShapeAreaCalculator\\ShapeAreaCalculator.csproj|solutionrelative:shapeareacalculator\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD2B84-355B-4BFE-8C9F-35B5A32BE6C4}|ShapeAreaCalculator\\ShapeAreaCalculator.csproj|c:\\users\\prashath\\source\\repos\\asp core tutorial\\firstproject\\c sharp practice\\shapeareacalculatorsln\\shapeareacalculator\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FD2B84-355B-4BFE-8C9F-35B5A32BE6C4}|ShapeAreaCalculator\\ShapeAreaCalculator.csproj|solutionrelative:shapeareacalculator\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD2B84-355B-4BFE-8C9F-35B5A32BE6C4}|ShapeAreaCalculator\\ShapeAreaCalculator.csproj|c:\\users\\prashath\\source\\repos\\asp core tutorial\\firstproject\\c sharp practice\\shapeareacalculatorsln\\shapeareacalculator\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FD2B84-355B-4BFE-8C9F-35B5A32BE6C4}|ShapeAreaCalculator\\ShapeAreaCalculator.csproj|solutionrelative:shapeareacalculator\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\ShapeAreaCalculatorSln\\ShapeAreaCalculator\\Triangle.cs",
+              "RelativeDocumentMoniker": "ShapeAreaCalculator\\Triangle.cs",
+              "ToolTip": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\ShapeAreaCalculatorSln\\ShapeAreaCalculator\\Triangle.cs",
+              "RelativeToolTip": "ShapeAreaCalculator\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T07:07:03.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\ShapeAreaCalculatorSln\\ShapeAreaCalculator\\Rectangle.cs",
+              "RelativeDocumentMoniker": "ShapeAreaCalculator\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\ShapeAreaCalculatorSln\\ShapeAreaCalculator\\Rectangle.cs",
+              "RelativeToolTip": "ShapeAreaCalculator\\Rectangle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T07:06:39.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\ShapeAreaCalculatorSln\\ShapeAreaCalculator\\Circle.cs",
+              "RelativeDocumentMoniker": "ShapeAreaCalculator\\Circle.cs",
+              "ToolTip": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\ShapeAreaCalculatorSln\\ShapeAreaCalculator\\Circle.cs",
+              "RelativeToolTip": "ShapeAreaCalculator\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T07:06:15.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\ShapeAreaCalculatorSln\\ShapeAreaCalculator\\Shape.cs",
+              "RelativeDocumentMoniker": "ShapeAreaCalculator\\Shape.cs",
+              "ToolTip": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\ShapeAreaCalculatorSln\\ShapeAreaCalculator\\Shape.cs",
+              "RelativeToolTip": "ShapeAreaCalculator\\Shape.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAywBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T07:03:05.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\ShapeAreaCalculatorSln\\ShapeAreaCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "ShapeAreaCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Prashath\\source\\repos\\Asp Core Tutorial\\FirstProject\\C sharp practice\\ShapeAreaCalculatorSln\\ShapeAreaCalculator\\Program.cs",
+              "RelativeToolTip": "ShapeAreaCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:59:40.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

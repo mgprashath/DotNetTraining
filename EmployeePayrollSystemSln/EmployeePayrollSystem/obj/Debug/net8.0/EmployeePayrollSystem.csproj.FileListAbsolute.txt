@@ -1,0 +1,14 @@
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\EmployeePayrollSystemSln\EmployeePayrollSystem\bin\Debug\net8.0\EmployeePayrollSystem.exe
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\EmployeePayrollSystemSln\EmployeePayrollSystem\bin\Debug\net8.0\EmployeePayrollSystem.deps.json
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\EmployeePayrollSystemSln\EmployeePayrollSystem\bin\Debug\net8.0\EmployeePayrollSystem.runtimeconfig.json
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\EmployeePayrollSystemSln\EmployeePayrollSystem\bin\Debug\net8.0\EmployeePayrollSystem.dll
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\EmployeePayrollSystemSln\EmployeePayrollSystem\bin\Debug\net8.0\EmployeePayrollSystem.pdb
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\EmployeePayrollSystemSln\EmployeePayrollSystem\obj\Debug\net8.0\EmployeePayrollSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\EmployeePayrollSystemSln\EmployeePayrollSystem\obj\Debug\net8.0\EmployeePayrollSystem.AssemblyInfoInputs.cache
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\EmployeePayrollSystemSln\EmployeePayrollSystem\obj\Debug\net8.0\EmployeePayrollSystem.AssemblyInfo.cs
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\EmployeePayrollSystemSln\EmployeePayrollSystem\obj\Debug\net8.0\EmployeePayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\EmployeePayrollSystemSln\EmployeePayrollSystem\obj\Debug\net8.0\EmployeePayrollSystem.dll
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\EmployeePayrollSystemSln\EmployeePayrollSystem\obj\Debug\net8.0\refint\EmployeePayrollSystem.dll
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\EmployeePayrollSystemSln\EmployeePayrollSystem\obj\Debug\net8.0\EmployeePayrollSystem.pdb
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\EmployeePayrollSystemSln\EmployeePayrollSystem\obj\Debug\net8.0\EmployeePayrollSystem.genruntimeconfig.cache
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\EmployeePayrollSystemSln\EmployeePayrollSystem\obj\Debug\net8.0\ref\EmployeePayrollSystem.dll

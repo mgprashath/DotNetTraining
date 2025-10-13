@@ -1,0 +1,49 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+ 
+using System;
+ 
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        Employee karthik = new Associate("Karthik", 10000);
+        Employee harish = new Manager("Harish", 20000);
+        karthik.ShowDetails();
+        harish.ShowDetails();
+    }
+}
+ 
+abstract class Employee{
+	public string Name {get; private set;}
+    public string Designation {get; private set;}
+    public double Salary {get; private set;}
+    public Employee(string name, string designation, double salary){
+        Name=name;
+        Designation = designation;
+        Salary = salary;
+    }
+    public abstract double CalculateBonus();
+    public void ShowDetails(){
+        double bonus = CalculateBonus();
+        double netSalary = Salary + bonus;
+        Console.WriteLine($"EmployeeName: {Name} , Designation: {Designation} , Salary: {Salary} Bonus: {bonus}, NetSalary: {netSalary}");
+    }
+}
+ 
+class Manager : Employee{
+    public Manager(string name, double salary) : base(name, "Manager", salary){
+    }
+    public override double CalculateBonus(){
+        return Salary * 0.10;
+    }
+}
+ 
+class Associate : Employee{
+    public Associate(string name, double salary) : base(name, "Associate", salary){
+    }
+    public override double CalculateBonus(){
+        return Salary * 0.05;
+    }
+}
+ 

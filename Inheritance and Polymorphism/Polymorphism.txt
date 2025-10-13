@@ -1,0 +1,45 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+ 
+using System;
+using System.Collections.Generics;
+ 
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        List<IPayment> payments = new List<IPayment>{
+            new CreditCardPayment("1234567891234567", "12/15"),
+            new CashPayment(),
+            new CreditCardPayment("14567", "12/15")
+        };
+        foreach(var payment in payments){
+            payment.MakePayment(150);
+        }
+    }
+}
+ 
+interface IPayment{
+    bool ValidatePayment();
+    void MakePayment(double amount);
+}
+ 
+class CreditCardPayment : IPayment {
+    public string CardNumber {get; set;}
+    public string ExpiryDate {get; set;}
+    public CreditCardPayment(string cardNumber, string expiryDate){
+        CardNumber = cardNumber;
+        ExpiryDate = expiryDate;
+    }
+    public bool ValidatePayment(){
+         return CardNumber.Length==16;
+        }
+
+    public void MakePayment(double amount){
+        if(ValidatePayment()){
+            Console.WriteLine($"Card payment success, Amount: {amount}");
+        }else{
+            Console.WriteLine("Card payment failed");
+        }
+    }
+  }

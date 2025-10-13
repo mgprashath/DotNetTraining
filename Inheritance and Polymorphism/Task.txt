@@ -1,0 +1,12 @@
+Task 09/30/2025: (Inheritance with abstract class)
+------------------
+Calculate employee Bonus
+	1. If it was manager 10% as bonus on their salary
+	2. If it was associate 5% as bonus on their salary
+ 
+Write Abstract class for Employee and Make Manager and Associates as child. 
+you can give two employee names and their designation and salary as constants in your main class.
+ 
+Sample output:
+	EmployeeName: Karthik , Designation: Associate , Salary: 10000 Bonus: 500, NetSalary: 10500
+	EmployeeName: Harish , Designation: Manager , Salary: 20000 Bonus: 2000, NetSalary: 22000

@@ -1,0 +1,14 @@
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\VehicleInventorySystemSln\VehicleInventorySystem\bin\Debug\net8.0\VehicleInventorySystem.exe
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\VehicleInventorySystemSln\VehicleInventorySystem\bin\Debug\net8.0\VehicleInventorySystem.deps.json
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\VehicleInventorySystemSln\VehicleInventorySystem\bin\Debug\net8.0\VehicleInventorySystem.runtimeconfig.json
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\VehicleInventorySystemSln\VehicleInventorySystem\bin\Debug\net8.0\VehicleInventorySystem.dll
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\VehicleInventorySystemSln\VehicleInventorySystem\bin\Debug\net8.0\VehicleInventorySystem.pdb
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\VehicleInventorySystemSln\VehicleInventorySystem\obj\Debug\net8.0\VehicleInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\VehicleInventorySystemSln\VehicleInventorySystem\obj\Debug\net8.0\VehicleInventorySystem.AssemblyInfoInputs.cache
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\VehicleInventorySystemSln\VehicleInventorySystem\obj\Debug\net8.0\VehicleInventorySystem.AssemblyInfo.cs
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\VehicleInventorySystemSln\VehicleInventorySystem\obj\Debug\net8.0\VehicleInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\VehicleInventorySystemSln\VehicleInventorySystem\obj\Debug\net8.0\VehicleInventorySystem.dll
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\VehicleInventorySystemSln\VehicleInventorySystem\obj\Debug\net8.0\refint\VehicleInventorySystem.dll
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\VehicleInventorySystemSln\VehicleInventorySystem\obj\Debug\net8.0\VehicleInventorySystem.pdb
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\VehicleInventorySystemSln\VehicleInventorySystem\obj\Debug\net8.0\VehicleInventorySystem.genruntimeconfig.cache
+C:\Users\Prashath\source\repos\Asp Core Tutorial\FirstProject\C sharp practice\VehicleInventorySystemSln\VehicleInventorySystem\obj\Debug\net8.0\ref\VehicleInventorySystem.dll

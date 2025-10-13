@@ -1,0 +1,26 @@
+
+Name: Jhon
+Base salary: 50050.50
+Net salary: 60060.600
+Designation: Manager
+
+Name: Jane
+Base salary: 39000.50
+Net salary: 42900.550
+Designation: Develpoer
+
+Name: Jean
+Base salary: 10000.50
+Net salary: 10000.50
+Designation: Intern
+
+Name: Brew
+Base salary: 35000.00
+Net salary: 38500.000
+Designation: Develpoer
+
+Name: Clutchcher
+Base salary: 10000.50
+Net salary: 10000.50
+Designation: Intern
+
