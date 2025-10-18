@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prashath\\OneDrive\\Desktop\\.NET Training\\EntityFramework\\TestAppSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{919A59F3-D324-4E00-9170-5C6E1DD42CD9}|TestApp\\TestApp.csproj|c:\\users\\prashath\\onedrive\\desktop\\.net training\\entityframework\\testappsln\\testapp\\migrations\\20251017042530_creatingemployeetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919A59F3-D324-4E00-9170-5C6E1DD42CD9}|TestApp\\TestApp.csproj|solutionrelative:testapp\\migrations\\20251017042530_creatingemployeetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919A59F3-D324-4E00-9170-5C6E1DD42CD9}|TestApp\\TestApp.csproj|c:\\users\\prashath\\onedrive\\desktop\\.net training\\entityframework\\testappsln\\testapp\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919A59F3-D324-4E00-9170-5C6E1DD42CD9}|TestApp\\TestApp.csproj|solutionrelative:testapp\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919A59F3-D324-4E00-9170-5C6E1DD42CD9}|TestApp\\TestApp.csproj|c:\\users\\prashath\\onedrive\\desktop\\.net training\\entityframework\\testappsln\\testapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919A59F3-D324-4E00-9170-5C6E1DD42CD9}|TestApp\\TestApp.csproj|solutionrelative:testapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251017042530_CreatingEmployeeTable.cs",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\.NET Training\\EntityFramework\\TestAppSln\\TestApp\\Migrations\\20251017042530_CreatingEmployeeTable.cs",
+              "RelativeDocumentMoniker": "TestApp\\Migrations\\20251017042530_CreatingEmployeeTable.cs",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\.NET Training\\EntityFramework\\TestAppSln\\TestApp\\Migrations\\20251017042530_CreatingEmployeeTable.cs",
+              "RelativeToolTip": "TestApp\\Migrations\\20251017042530_CreatingEmployeeTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:25:31.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\.NET Training\\EntityFramework\\TestAppSln\\TestApp\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "TestApp\\Data\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\.NET Training\\EntityFramework\\TestAppSln\\TestApp\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "TestApp\\Data\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:15:33.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\.NET Training\\EntityFramework\\TestAppSln\\TestApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TestApp\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\.NET Training\\EntityFramework\\TestAppSln\\TestApp\\Models\\Employee.cs",
+              "RelativeToolTip": "TestApp\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:07:14.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
