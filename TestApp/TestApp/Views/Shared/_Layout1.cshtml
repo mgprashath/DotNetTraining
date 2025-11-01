@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@Page.Title</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-3.7.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    @RenderSection("head", required: false)
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg bg-success navbar-light bg-primary">
+        <div class="container">
+            <a class="navbar-brand" href="#">Test Web App</a>
+            <div class="row">
+                <div class="col-8" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">@Html.ActionLink("Employee", "Index", "Employee", null, new { @class = "nav-link" })</li>
+                        <li class="nav-item">@Html.ActionLink("Student", "Index", "Student", null, new { @class = "nav-link" })</li>
+                        <li class="nav-item">@Html.ActionLink("Home", "Index", "Home", null, new { @class = "nav-link" })</li>
+                        <li class="nav-item">@Html.ActionLink("Contact", "Contact", "Home", null, new { @class = "nav-link" })</li>
+                        <li class="nav-item">@Html.ActionLink("About", "About", "Home", null, new { @class = "nav-link" })</li>
+                        <li class="nav-item">@Html.ActionLink("Profile", "ProfileData", "Home", null, new { @class = "nav-link" })</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-10">
+                <div class="container body-content">
+                    @RenderBody()
+                </div>
+                <div>@ViewBag.Message</div>
+            </div>
+            <div class="col-2 bg-black text-white" style="background-color:#fa8405; min-height:1050px; padding:0px">
+                <div class="list-group">
+                    <a href="#" class="list-group-item text-white" style="background-color:transparent">Favourites</a>
+                    <a href="#" class="list-group-item text-white" style="background-color:transparent">Products</a>
+                    <a href="#" class="list-group-item text-white" style="background-color:transparent">Your Orders</a>
+                    @RenderSection("AdditionalLinks", required: false)
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

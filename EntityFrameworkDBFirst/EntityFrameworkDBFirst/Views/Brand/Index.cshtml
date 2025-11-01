@@ -1,0 +1,25 @@
+﻿@model IEnumerable<EntityFrameworkDBFirst.Models.Brand>
+@{
+    ViewBag.Title = "Brand";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Brand</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Brand ID</th>
+            <th>Brand Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var brand in Model)
+        {
+            <tr>
+                <td>@brand.BrandID</td>
+                <td>@brand.BrandName</td>
+            </tr>
+        }
+    </tbody>
+</table>

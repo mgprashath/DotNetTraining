@@ -1,0 +1,22 @@
+﻿@model TestApp.Models.Employee
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h2>Create</h2>
+
+<form action="~/Employee/Update" method="post">
+    <table>
+        <thead>
+            <tr><td>Employee ID</td><td><input type="text" class="form-text" id="txtId" name="EmployeeId" /></td></tr>
+            <tr><td>Name</td><td><input type="text" class="form-text" id="txtName" name="Name" /></td></tr>
+            <tr><td>Position</td><td><input type="text" class="form-text" id="txtPos" name="Position" /></td></tr>
+            <tr><td>DOB</td><td><input type="text" class="form-text" id="txtDOB" name="DOB" /></td></tr>
+            <tr><td><input type="submit" value="Submit" class="btn-primary" /></td></tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</form>
+

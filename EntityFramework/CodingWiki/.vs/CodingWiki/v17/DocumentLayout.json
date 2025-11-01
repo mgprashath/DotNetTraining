@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Prashath\\OneDrive\\Desktop\\.NET Training\\EntityFramework\\CodingWiki\\",
+  "WorkspaceRootPath": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFramework\\CodingWiki\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BC3E267-6D1D-4D87-B6F0-6B9D06965A3B}|CodingWiki_Model\\CodingWiki_Model.csproj|c:\\users\\prashath\\onedrive\\desktop\\.net training\\entityframework\\codingwiki\\codingwiki_model\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC3E267-6D1D-4D87-B6F0-6B9D06965A3B}|CodingWiki_Model\\CodingWiki_Model.csproj|solutionrelative:codingwiki_model\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EA3DB97-238D-4BE2-9842-49410788D35C}|CodingWiki_Web\\CodingWiki_Web.csproj|c:\\users\\prashath\\onedrive\\desktop\\dotnettraining\\entityframework\\codingwiki\\codingwiki_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EA3DB97-238D-4BE2-9842-49410788D35C}|CodingWiki_Web\\CodingWiki_Web.csproj|solutionrelative:codingwiki_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A6F709C-82C9-4FC7-B1B8-2482493F84B3}|CodingWiki_DataAccess\\CodingWiki_DataAccess.csproj|c:\\users\\prashath\\onedrive\\desktop\\.net training\\entityframework\\codingwiki\\codingwiki_dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A6F709C-82C9-4FC7-B1B8-2482493F84B3}|CodingWiki_DataAccess\\CodingWiki_DataAccess.csproj|solutionrelative:codingwiki_dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EA3DB97-238D-4BE2-9842-49410788D35C}|CodingWiki_Web\\CodingWiki_Web.csproj|c:\\users\\prashath\\onedrive\\desktop\\dotnettraining\\entityframework\\codingwiki\\codingwiki_web\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA3DB97-238D-4BE2-9842-49410788D35C}|CodingWiki_Web\\CodingWiki_Web.csproj|solutionrelative:codingwiki_web\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA3DB97-238D-4BE2-9842-49410788D35C}|CodingWiki_Web\\CodingWiki_Web.csproj|c:\\users\\prashath\\onedrive\\desktop\\dotnettraining\\entityframework\\codingwiki\\codingwiki_web\\models\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA3DB97-238D-4BE2-9842-49410788D35C}|CodingWiki_Web\\CodingWiki_Web.csproj|solutionrelative:codingwiki_web\\models\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA3DB97-238D-4BE2-9842-49410788D35C}|CodingWiki_Web\\CodingWiki_Web.csproj|c:\\users\\prashath\\onedrive\\desktop\\dotnettraining\\entityframework\\codingwiki\\codingwiki_web\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EA3DB97-238D-4BE2-9842-49410788D35C}|CodingWiki_Web\\CodingWiki_Web.csproj|solutionrelative:codingwiki_web\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA3DB97-238D-4BE2-9842-49410788D35C}|CodingWiki_Web\\CodingWiki_Web.csproj|c:\\users\\prashath\\onedrive\\desktop\\dotnettraining\\entityframework\\codingwiki\\codingwiki_web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EA3DB97-238D-4BE2-9842-49410788D35C}|CodingWiki_Web\\CodingWiki_Web.csproj|solutionrelative:codingwiki_web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\.NET Training\\EntityFramework\\CodingWiki\\CodingWiki_Model\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "CodingWiki_Model\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\.NET Training\\EntityFramework\\CodingWiki\\CodingWiki_Model\\Models\\Book.cs",
-              "RelativeToolTip": "CodingWiki_Model\\Models\\Book.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFramework\\CodingWiki\\CodingWiki_Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CodingWiki_Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFramework\\CodingWiki\\CodingWiki_Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CodingWiki_Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAA3wB8AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T03:53:37.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFramework\\CodingWiki\\CodingWiki_Web\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodingWiki_Web\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFramework\\CodingWiki\\CodingWiki_Web\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "CodingWiki_Web\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T05:36:06.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFramework\\CodingWiki\\CodingWiki_Web\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CodingWiki_Web\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFramework\\CodingWiki\\CodingWiki_Web\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "CodingWiki_Web\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T15:53:59.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFramework\\CodingWiki\\CodingWiki_Web\\Models\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "CodingWiki_Web\\Models\\BookViewModel.cs",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFramework\\CodingWiki\\CodingWiki_Web\\Models\\BookViewModel.cs",
+              "RelativeToolTip": "CodingWiki_Web\\Models\\BookViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T06:09:27.063Z",
+              "WhenOpened": "2025-10-20T15:38:48.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\.NET Training\\EntityFramework\\CodingWiki\\CodingWiki_DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "CodingWiki_DataAccess\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\.NET Training\\EntityFramework\\CodingWiki\\CodingWiki_DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "CodingWiki_DataAccess\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAUwC0AAAA3AAAAAAAAAA==",
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFramework\\CodingWiki\\CodingWiki_Web\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "CodingWiki_Web\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFramework\\CodingWiki\\CodingWiki_Web\\Controllers\\BookController.cs",
+              "RelativeToolTip": "CodingWiki_Web\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA0wB8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T16:41:07.08Z",
+              "WhenOpened": "2025-10-20T15:35:08.989Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFrameworkDBFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B63513B4-4079-4C3A-B127-B65DDA58A4FC}|EntityFrameworkDBFirst\\EntityFrameworkDBFirst.csproj|c:\\users\\prashath\\onedrive\\desktop\\dotnettraining\\entityframeworkdbfirst\\entityframeworkdbfirst\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63513B4-4079-4C3A-B127-B65DDA58A4FC}|EntityFrameworkDBFirst\\EntityFrameworkDBFirst.csproj|solutionrelative:entityframeworkdbfirst\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63513B4-4079-4C3A-B127-B65DDA58A4FC}|EntityFrameworkDBFirst\\EntityFrameworkDBFirst.csproj|c:\\users\\prashath\\onedrive\\desktop\\dotnettraining\\entityframeworkdbfirst\\entityframeworkdbfirst\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63513B4-4079-4C3A-B127-B65DDA58A4FC}|EntityFrameworkDBFirst\\EntityFrameworkDBFirst.csproj|solutionrelative:entityframeworkdbfirst\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63513B4-4079-4C3A-B127-B65DDA58A4FC}|EntityFrameworkDBFirst\\EntityFrameworkDBFirst.csproj|c:\\users\\prashath\\onedrive\\desktop\\dotnettraining\\entityframeworkdbfirst\\entityframeworkdbfirst\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63513B4-4079-4C3A-B127-B65DDA58A4FC}|EntityFrameworkDBFirst\\EntityFrameworkDBFirst.csproj|solutionrelative:entityframeworkdbfirst\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63513B4-4079-4C3A-B127-B65DDA58A4FC}|EntityFrameworkDBFirst\\EntityFrameworkDBFirst.csproj|c:\\users\\prashath\\onedrive\\desktop\\dotnettraining\\entityframeworkdbfirst\\entityframeworkdbfirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63513B4-4079-4C3A-B127-B65DDA58A4FC}|EntityFrameworkDBFirst\\EntityFrameworkDBFirst.csproj|solutionrelative:entityframeworkdbfirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFrameworkDBFirst\\EntityFrameworkDBFirst\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkDBFirst\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFrameworkDBFirst\\EntityFrameworkDBFirst\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "EntityFrameworkDBFirst\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAMwDYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T10:14:55.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFrameworkDBFirst\\EntityFrameworkDBFirst\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDBFirst\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFrameworkDBFirst\\EntityFrameworkDBFirst\\Models\\Product.cs",
+              "RelativeToolTip": "EntityFrameworkDBFirst\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:01:22.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFrameworkDBFirst\\EntityFrameworkDBFirst\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkDBFirst\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFrameworkDBFirst\\EntityFrameworkDBFirst\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "EntityFrameworkDBFirst\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T09:55:01.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFrameworkDBFirst\\EntityFrameworkDBFirst\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDBFirst\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\EntityFrameworkDBFirst\\EntityFrameworkDBFirst\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EntityFrameworkDBFirst\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:16:02.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

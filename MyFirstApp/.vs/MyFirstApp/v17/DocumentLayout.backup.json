@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\MyFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3745C1FC-6589-4D41-9DA6-6589DBD64020}|MyFirstApp\\MyFirstApp.csproj|c:\\users\\prashath\\onedrive\\desktop\\dotnettraining\\myfirstapp\\myfirstapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3745C1FC-6589-4D41-9DA6-6589DBD64020}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3745C1FC-6589-4D41-9DA6-6589DBD64020}|MyFirstApp\\MyFirstApp.csproj|c:\\users\\prashath\\onedrive\\desktop\\dotnettraining\\myfirstapp\\myfirstapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3745C1FC-6589-4D41-9DA6-6589DBD64020}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3745C1FC-6589-4D41-9DA6-6589DBD64020}|MyFirstApp\\MyFirstApp.csproj|C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\MyFirstApp\\myfirstapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3745C1FC-6589-4D41-9DA6-6589DBD64020}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3745C1FC-6589-4D41-9DA6-6589DBD64020}|MyFirstApp\\MyFirstApp.csproj|C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\MyFirstApp\\myfirstapp\\views\\home\\studentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3745C1FC-6589-4D41-9DA6-6589DBD64020}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\views\\home\\studentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3745C1FC-6589-4D41-9DA6-6589DBD64020}|MyFirstApp\\MyFirstApp.csproj|C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\MyFirstApp\\myfirstapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3745C1FC-6589-4D41-9DA6-6589DBD64020}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3745C1FC-6589-4D41-9DA6-6589DBD64020}|MyFirstApp\\MyFirstApp.csproj|C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\MyFirstApp\\myfirstapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3745C1FC-6589-4D41-9DA6-6589DBD64020}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\MyFirstApp\\MyFirstApp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\MyFirstApp\\MyFirstApp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MyFirstApp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:10:24.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\MyFirstApp\\MyFirstApp\\Views\\Home\\StudentDetails.cshtml",
+              "RelativeDocumentMoniker": "MyFirstApp\\Views\\Home\\StudentDetails.cshtml",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\MyFirstApp\\MyFirstApp\\Views\\Home\\StudentDetails.cshtml",
+              "RelativeToolTip": "MyFirstApp\\Views\\Home\\StudentDetails.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T12:30:07.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\MyFirstApp\\MyFirstApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\MyFirstApp\\MyFirstApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MyFirstApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:15:39.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\MyFirstApp\\MyFirstApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyFirstApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\MyFirstApp\\MyFirstApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyFirstApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T09:59:06.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\MyFirstApp\\MyFirstApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyFirstApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\MyFirstApp\\MyFirstApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyFirstApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T09:56:58.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\MyFirstApp\\MyFirstApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\MyFirstApp\\MyFirstApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyFirstApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA2wDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:48:35.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

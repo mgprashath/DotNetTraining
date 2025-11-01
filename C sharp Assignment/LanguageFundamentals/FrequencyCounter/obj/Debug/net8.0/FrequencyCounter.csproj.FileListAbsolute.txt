@@ -1,0 +1,15 @@
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\FrequencyCounter\bin\Debug\net8.0\FrequencyCounter.exe
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\FrequencyCounter\bin\Debug\net8.0\FrequencyCounter.deps.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\FrequencyCounter\bin\Debug\net8.0\FrequencyCounter.runtimeconfig.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\FrequencyCounter\bin\Debug\net8.0\FrequencyCounter.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\FrequencyCounter\bin\Debug\net8.0\FrequencyCounter.pdb
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\FrequencyCounter\obj\Debug\net8.0\FrequencyCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\FrequencyCounter\obj\Debug\net8.0\FrequencyCounter.AssemblyInfoInputs.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\FrequencyCounter\obj\Debug\net8.0\FrequencyCounter.AssemblyInfo.cs
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\FrequencyCounter\obj\Debug\net8.0\FrequencyCounter.csproj.CoreCompileInputs.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\FrequencyCounter\obj\Debug\net8.0\FrequencyCounter.sourcelink.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\FrequencyCounter\obj\Debug\net8.0\FrequencyCounter.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\FrequencyCounter\obj\Debug\net8.0\refint\FrequencyCounter.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\FrequencyCounter\obj\Debug\net8.0\FrequencyCounter.pdb
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\FrequencyCounter\obj\Debug\net8.0\FrequencyCounter.genruntimeconfig.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\FrequencyCounter\obj\Debug\net8.0\ref\FrequencyCounter.dll

@@ -1,0 +1,15 @@
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\CurrancyConverter\bin\Debug\net8.0\CurrancyConverter.exe
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\CurrancyConverter\bin\Debug\net8.0\CurrancyConverter.deps.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\CurrancyConverter\bin\Debug\net8.0\CurrancyConverter.runtimeconfig.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\CurrancyConverter\bin\Debug\net8.0\CurrancyConverter.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\CurrancyConverter\bin\Debug\net8.0\CurrancyConverter.pdb
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\CurrancyConverter\obj\Debug\net8.0\CurrancyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\CurrancyConverter\obj\Debug\net8.0\CurrancyConverter.AssemblyInfoInputs.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\CurrancyConverter\obj\Debug\net8.0\CurrancyConverter.AssemblyInfo.cs
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\CurrancyConverter\obj\Debug\net8.0\CurrancyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\CurrancyConverter\obj\Debug\net8.0\CurrancyConverter.sourcelink.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\CurrancyConverter\obj\Debug\net8.0\CurrancyConverter.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\CurrancyConverter\obj\Debug\net8.0\refint\CurrancyConverter.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\CurrancyConverter\obj\Debug\net8.0\CurrancyConverter.pdb
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\CurrancyConverter\obj\Debug\net8.0\CurrancyConverter.genruntimeconfig.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\LanguageFundamentals\CurrancyConverter\obj\Debug\net8.0\ref\CurrancyConverter.dll

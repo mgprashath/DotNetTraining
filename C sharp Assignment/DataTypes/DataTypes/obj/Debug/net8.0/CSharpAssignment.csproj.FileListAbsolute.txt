@@ -1,0 +1,15 @@
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\CSharpAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\CSharpAssignment.AssemblyInfoInputs.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\CSharpAssignment.AssemblyInfo.cs
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\CSharpAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\CSharpAssignment.sourcelink.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\CSharpAssignment\CSharpAssignment\bin\Debug\net8.0\CSharpAssignment.exe
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\CSharpAssignment\CSharpAssignment\bin\Debug\net8.0\CSharpAssignment.deps.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\CSharpAssignment\CSharpAssignment\bin\Debug\net8.0\CSharpAssignment.runtimeconfig.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\CSharpAssignment\CSharpAssignment\bin\Debug\net8.0\CSharpAssignment.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\CSharpAssignment\CSharpAssignment\bin\Debug\net8.0\CSharpAssignment.pdb
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\CSharpAssignment.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\refint\CSharpAssignment.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\CSharpAssignment.pdb
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\CSharpAssignment.genruntimeconfig.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\ref\CSharpAssignment.dll

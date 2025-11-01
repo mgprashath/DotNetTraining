@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewBag.Title = "StudentDetails";
+}
+
+<h2>StudentDetails</h2>
+@{
+    string result;
+    if (ViewBag.Marks > 400)
+    {
+        result = "Pass";
+    }
+    else
+    {
+        result = "Fail";
+    }
+}
+
+<table>
+    <tr>
+        <th>Student ID</th>
+        <th>Student Name</th>
+        <th>Age</th>
+        <th>Results</th>
+        <th></th>
+        <th>Subjects</th>
+    </tr>
+    <tr>
+        <td>@ViewBag.StudentID</td>
+        <td>@ViewBag.StudentName</td>
+        <td>@ViewBag.StudentAge</td>
+        <td>@result</td>
+        <td>
+            @if (result == "Pass")
+            {
+          <span class="text-success">Congratulations</span>
+            }
+            else
+            {
+        <span class="text-danger">Better luck next time  </span>
+            }
+        </td>
+        <td>
+            <ul>
+                @foreach (var item in ViewBag.Subjects)
+                {
+                    <li>@item</li>
+                }
+            </ul>
+        </td>
+    </tr>
+</table>

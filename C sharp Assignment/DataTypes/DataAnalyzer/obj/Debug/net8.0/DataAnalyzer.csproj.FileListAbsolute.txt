@@ -1,0 +1,15 @@
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\DataAnalyzer\bin\Debug\net8.0\DataAnalyzer.exe
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\DataAnalyzer\bin\Debug\net8.0\DataAnalyzer.deps.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\DataAnalyzer\bin\Debug\net8.0\DataAnalyzer.runtimeconfig.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\DataAnalyzer\bin\Debug\net8.0\DataAnalyzer.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\DataAnalyzer\bin\Debug\net8.0\DataAnalyzer.pdb
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\DataAnalyzer\obj\Debug\net8.0\DataAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\DataAnalyzer\obj\Debug\net8.0\DataAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\DataAnalyzer\obj\Debug\net8.0\DataAnalyzer.AssemblyInfo.cs
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\DataAnalyzer\obj\Debug\net8.0\DataAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\DataAnalyzer\obj\Debug\net8.0\DataAnalyzer.sourcelink.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\DataAnalyzer\obj\Debug\net8.0\DataAnalyzer.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\DataAnalyzer\obj\Debug\net8.0\refint\DataAnalyzer.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\DataAnalyzer\obj\Debug\net8.0\DataAnalyzer.pdb
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\DataAnalyzer\obj\Debug\net8.0\DataAnalyzer.genruntimeconfig.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\DataAnalyzer\obj\Debug\net8.0\ref\DataAnalyzer.dll

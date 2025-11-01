@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Contact";
+}
+
+<h2>Contact</h2>
+
+@{
+    ViewBag.Message = "Contact";
+}
+
+@section AdditionalLinks{
+    <a href="#" class="list-group-item text-white" style="background-color:transparent">My Professional Contact</a>
+    <a href="#" class="list-group-item text-white" style="background-color:transparent">Home contact</a>
+}
+
+@{
+    ViewBag.PartialMessage = "This is from contact page";
+    ViewBag.PartialList = new List<string> { "Contact via Email", "Contact via Phone", "Contact via Address" };
+
+    Html.RenderPartial("_ListPartialView");
+}

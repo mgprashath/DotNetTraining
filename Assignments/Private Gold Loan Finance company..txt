@@ -1,0 +1,41 @@
+Private Gold Loan Finance company.
+ 
+ 
+Repledging of Gold in Loans.
+ 
+LoanMaster
+Customernumber,Name,LoanID,LoanAmount
+,123,karthik,123,10000
+,124,Manjoj,124,20000
+ 
+LoanDetails
+LoanID,ArticleId,ArticleName,Unit
+123,101,chain,1
+123,102,Ring,1
+124,103,necklace,1
+------------------------------------------
+ 
+RepledgingTable
+ 
+RepledgeMaster
+RepledgeId,Bankname,Amount
+001,ABCBANk,15000
+002,CVFBANK,10000
+ 
+RepledgeDetails
+RepledgeId, ArctileId,LoanId
+001,101,123
+001,103,124
+002,101,123---this is possible
+ 
+End to End MVC Application
+1. one Page 
+Entering Loan Details
+Validation:
+Madantory validation
+ 
+2. Repledge- Select dropdown check boxes another dropdwond selected articles. 
+Validation: Mandatory fields
+	Rule setup: You cannot add the previously Repledged articles
+ 
+----------------------------------------------------

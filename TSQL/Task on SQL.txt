@@ -1,0 +1,24 @@
+Task on SQL
+ 
+Create a Table to hold Billing data
+ 
+CustomerNumber, ReceiptAmount, receiptDate, ReceiptId, Discount, NetAmount,isDiscountCalc
+1234,2000,12-12-2025,890,0,2000,1
+1234,3000,12-14-2025,891,40,2960,0
+ 
+create another table for Points and amount
+ 
+point , amount
+2, 100
+ 
+------------------------------------------------------------------
+ 
+Create A Stored procedure that will insert payments data
+ 
+@needDiscount =1
+ 
+before inserting , it should use a SQL function that will check history of payments for same customer 
+and it will calculate discount based on points table.
+ 
+ 
+----------------------------------------------------------

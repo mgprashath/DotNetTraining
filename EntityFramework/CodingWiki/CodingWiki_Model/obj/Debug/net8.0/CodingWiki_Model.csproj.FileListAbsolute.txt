@@ -10,3 +10,15 @@ C:\Users\Prashath\OneDrive\Desktop\.NET Training\EntityFramework\CodingWiki\Codi
 C:\Users\Prashath\OneDrive\Desktop\.NET Training\EntityFramework\CodingWiki\CodingWiki_Model\obj\Debug\net8.0\refint\CodingWiki_Model.dll
 C:\Users\Prashath\OneDrive\Desktop\.NET Training\EntityFramework\CodingWiki\CodingWiki_Model\obj\Debug\net8.0\CodingWiki_Model.pdb
 C:\Users\Prashath\OneDrive\Desktop\.NET Training\EntityFramework\CodingWiki\CodingWiki_Model\obj\Debug\net8.0\ref\CodingWiki_Model.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_Model\bin\Debug\net8.0\CodingWiki_Model.deps.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_Model\bin\Debug\net8.0\CodingWiki_Model.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_Model\bin\Debug\net8.0\CodingWiki_Model.pdb
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_Model\obj\Debug\net8.0\CodingWiki_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_Model\obj\Debug\net8.0\CodingWiki_Model.AssemblyInfoInputs.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_Model\obj\Debug\net8.0\CodingWiki_Model.AssemblyInfo.cs
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_Model\obj\Debug\net8.0\CodingWiki_Model.csproj.CoreCompileInputs.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_Model\obj\Debug\net8.0\CodingWiki_Model.sourcelink.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_Model\obj\Debug\net8.0\CodingWiki_Model.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_Model\obj\Debug\net8.0\refint\CodingWiki_Model.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_Model\obj\Debug\net8.0\CodingWiki_Model.pdb
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_Model\obj\Debug\net8.0\ref\CodingWiki_Model.dll

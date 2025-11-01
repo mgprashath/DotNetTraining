@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "About";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>About</h2>
+
+@{
+    ViewBag.Message = "About";
+}
+
+@section AdditionalLinks{
+    <a href="#" class="list-group-item text-white" style="background-color:transparent">Hobbies</a>
+    <a href="#" class="list-group-item text-white" style="background-color:transparent">Sports</a>
+}
+
+@{
+    ViewBag.PartialMessage = "This is from about page";
+    ViewBag.PartialList = new List<string> { "Item 1", "Item 2", "Item 3", "Item 4" };
+
+    Html.RenderPartial("_ListPartialView");
+}
+
+
+

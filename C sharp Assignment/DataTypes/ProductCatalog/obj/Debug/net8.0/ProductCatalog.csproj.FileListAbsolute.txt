@@ -1,0 +1,15 @@
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\ProductCatalog\bin\Debug\net8.0\ProductCatalog.exe
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\ProductCatalog\bin\Debug\net8.0\ProductCatalog.deps.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\ProductCatalog\bin\Debug\net8.0\ProductCatalog.runtimeconfig.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\ProductCatalog\bin\Debug\net8.0\ProductCatalog.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\ProductCatalog\bin\Debug\net8.0\ProductCatalog.pdb
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\ProductCatalog\obj\Debug\net8.0\ProductCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\ProductCatalog\obj\Debug\net8.0\ProductCatalog.AssemblyInfoInputs.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\ProductCatalog\obj\Debug\net8.0\ProductCatalog.AssemblyInfo.cs
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\ProductCatalog\obj\Debug\net8.0\ProductCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\ProductCatalog\obj\Debug\net8.0\ProductCatalog.sourcelink.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\ProductCatalog\obj\Debug\net8.0\ProductCatalog.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\ProductCatalog\obj\Debug\net8.0\refint\ProductCatalog.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\ProductCatalog\obj\Debug\net8.0\ProductCatalog.pdb
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\ProductCatalog\obj\Debug\net8.0\ProductCatalog.genruntimeconfig.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\C sharp Assignment\DataTypes\ProductCatalog\obj\Debug\net8.0\ref\ProductCatalog.dll

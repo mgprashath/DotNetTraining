@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodingWiki_DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8842cd1fe59945149a4ef03aeeb88e21aeb3a54a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0fd56535b2bbc910a9658e8d668175b4f27bd45")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodingWiki_DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodingWiki_DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

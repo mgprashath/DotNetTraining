@@ -16,3 +16,21 @@ C:\Users\Prashath\OneDrive\Desktop\.NET Training\EntityFramework\CodingWiki\Codi
 C:\Users\Prashath\OneDrive\Desktop\.NET Training\EntityFramework\CodingWiki\CodingWiki_DataAccess\bin\Debug\net8.0\CodingWiki_Model.dll
 C:\Users\Prashath\OneDrive\Desktop\.NET Training\EntityFramework\CodingWiki\CodingWiki_DataAccess\bin\Debug\net8.0\CodingWiki_Model.pdb
 C:\Users\Prashath\OneDrive\Desktop\.NET Training\EntityFramework\CodingWiki\CodingWiki_DataAccess\obj\Debug\net8.0\CodingWi.D2EB3B2B.Up2Date
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_DataAccess\bin\Debug\net8.0\CodingWiki_DataAccess.deps.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_DataAccess\bin\Debug\net8.0\CodingWiki_DataAccess.runtimeconfig.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_DataAccess\bin\Debug\net8.0\CodingWiki_DataAccess.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_DataAccess\bin\Debug\net8.0\CodingWiki_DataAccess.pdb
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_DataAccess\bin\Debug\net8.0\CodingWiki_Model.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_DataAccess\bin\Debug\net8.0\CodingWiki_Model.pdb
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_DataAccess\obj\Debug\net8.0\CodingWiki_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_DataAccess\obj\Debug\net8.0\CodingWiki_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_DataAccess\obj\Debug\net8.0\CodingWiki_DataAccess.AssemblyInfoInputs.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_DataAccess\obj\Debug\net8.0\CodingWiki_DataAccess.AssemblyInfo.cs
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_DataAccess\obj\Debug\net8.0\CodingWiki_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_DataAccess\obj\Debug\net8.0\CodingWiki_DataAccess.sourcelink.json
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_DataAccess\obj\Debug\net8.0\CodingWi.D2EB3B2B.Up2Date
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_DataAccess\obj\Debug\net8.0\CodingWiki_DataAccess.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_DataAccess\obj\Debug\net8.0\refint\CodingWiki_DataAccess.dll
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_DataAccess\obj\Debug\net8.0\CodingWiki_DataAccess.pdb
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_DataAccess\obj\Debug\net8.0\CodingWiki_DataAccess.genruntimeconfig.cache
+C:\Users\Prashath\OneDrive\Desktop\DotNetTraining\EntityFramework\CodingWiki\CodingWiki_DataAccess\obj\Debug\net8.0\ref\CodingWiki_DataAccess.dll

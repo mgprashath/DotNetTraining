@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrancyConverter", "CurrancyConverter\CurrancyConverter.csproj", "{30FEE950-DC06-4301-AFB4-3F7C601E107D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeCalculator", "GradeCalculator\GradeCalculator.csproj", "{C6C3C4D9-3924-402A-851E-DECAF83E21FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyCounter", "FrequencyCounter\FrequencyCounter.csproj", "{8A94049D-349F-4898-86EE-2D3FAA4163C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesTrendAnalyzer", "SalesTrendAnalyzer\SalesTrendAnalyzer.csproj", "{904E8658-E472-406E-87C8-F88E1821C027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30FEE950-DC06-4301-AFB4-3F7C601E107D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FEE950-DC06-4301-AFB4-3F7C601E107D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FEE950-DC06-4301-AFB4-3F7C601E107D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FEE950-DC06-4301-AFB4-3F7C601E107D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C3C4D9-3924-402A-851E-DECAF83E21FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C3C4D9-3924-402A-851E-DECAF83E21FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C3C4D9-3924-402A-851E-DECAF83E21FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C3C4D9-3924-402A-851E-DECAF83E21FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A94049D-349F-4898-86EE-2D3FAA4163C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A94049D-349F-4898-86EE-2D3FAA4163C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A94049D-349F-4898-86EE-2D3FAA4163C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A94049D-349F-4898-86EE-2D3FAA4163C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904E8658-E472-406E-87C8-F88E1821C027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904E8658-E472-406E-87C8-F88E1821C027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904E8658-E472-406E-87C8-F88E1821C027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904E8658-E472-406E-87C8-F88E1821C027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18388831-E1A9-465A-9AE9-D574D6652557}
+	EndGlobalSection
+EndGlobal

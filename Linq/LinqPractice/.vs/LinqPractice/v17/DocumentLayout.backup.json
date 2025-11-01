@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\Linq\\LinqPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0138F3F9-654B-40AF-A812-3612F1D3B59B}|LinqPractice\\LinqPractice.csproj|c:\\users\\prashath\\onedrive\\desktop\\dotnettraining\\linq\\linqpractice\\linqpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0138F3F9-654B-40AF-A812-3612F1D3B59B}|LinqPractice\\LinqPractice.csproj|solutionrelative:linqpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0138F3F9-654B-40AF-A812-3612F1D3B59B}|LinqPractice\\LinqPractice.csproj|c:\\users\\prashath\\onedrive\\desktop\\dotnettraining\\linq\\linqpractice\\linqpractice\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0138F3F9-654B-40AF-A812-3612F1D3B59B}|LinqPractice\\LinqPractice.csproj|solutionrelative:linqpractice\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\Linq\\LinqPractice\\LinqPractice\\Person.cs",
+              "RelativeDocumentMoniker": "LinqPractice\\Person.cs",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\Linq\\LinqPractice\\LinqPractice\\Person.cs",
+              "RelativeToolTip": "LinqPractice\\Person.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:30:55.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\Linq\\LinqPractice\\LinqPractice\\Program.cs",
+              "RelativeDocumentMoniker": "LinqPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\Prashath\\OneDrive\\Desktop\\DotNetTraining\\Linq\\LinqPractice\\LinqPractice\\Program.cs",
+              "RelativeToolTip": "LinqPractice\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:05:46.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

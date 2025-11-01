@@ -1,0 +1,17 @@
+﻿@model TestApp.Models.Student
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<form method="post" action="~/Student/Create">
+    <table>
+        <tr><td>Student Id</td><td><input type="text" name="Id" class="form-control" /></td></tr>
+        <tr><td>Name</td><td><input type="text" name="Name" class="form-control" /></td></tr>
+        <tr><td>Address 1</td><td><input type="text" name="Address1" class="form-control" /></td></tr>
+        <tr><td>Address 2</td><td><input type="text" name="Address2" class="form-control" /></td></tr>
+        <tr><td>City</td><td><input type="text" name="City" class="form-control" /></td></tr>
+        <tr><td><input type="submit" class="form-control" value="Submit" /></td><td></td></tr>
+    </table>
+</form>
+
